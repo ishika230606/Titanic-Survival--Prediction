@@ -41,6 +41,7 @@ Scikit-learn – Data preprocessing and model utilities
 TensorFlow / Keras – Machine learning model development
 Matplotlib – Data visualization
 Jupyter Notebook – Development environment
+
 🔄 Project Workflow
 Load the Titanic dataset
 Explore the dataset
